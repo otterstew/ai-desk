@@ -1,0 +1,32 @@
+{
+  "id": "/",
+  "name": "AI Desk",
+  "short_name": "AI Desk",
+  "description": "Shared AI research and notes.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#16140F",
+  "theme_color": "#16140F",
+  "icons": [
+    {
+      "src": "./ai-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./ai-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./ai-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
